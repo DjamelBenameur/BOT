@@ -12,6 +12,7 @@ gem 'facebook-messenger'
 gem 'rails', '~> 6.1.3'
 # Use sqlite3 as the database for Active Record
 
+gem 'ruby', '~> 3.2.2'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
