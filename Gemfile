@@ -8,7 +8,6 @@ end
 
 gem 'facebook-messenger'
 
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1.3'
 # Use sqlite3 as the database for Active Record
